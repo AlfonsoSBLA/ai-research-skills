@@ -1,3 +1,24 @@
+> # 📦 This repo has moved
+>
+> **`ai-research-skills` has been consolidated into [Growth4U-systems/growth-skills](https://github.com/Growth4U-systems/growth-skills)** — a single curated home for all our open-source Claude Code skills.
+>
+> ## What changed
+> - `deep-research` and `qa-bot` are now maintained in [growth-skills/skills/](https://github.com/Growth4U-systems/growth-skills/tree/main/skills)
+> - The new repo includes additional skills (g4u-seo, token-hygiene) and a master INDEX with skill connections
+> - This repo is **archived** (read-only). No new commits, issues, or PRs here.
+>
+> ## Install going forward
+> ```bash
+> git clone https://github.com/Growth4U-systems/growth-skills.git
+> # Pick the skills you want from skills/
+> ```
+>
+> ---
+>
+> Below: original README, preserved for context.
+>
+> ---
+
 # AI Research Skills: Investiga sin errores con IA
 
 Un sistema de 3 capas para investigar temas complejos con inteligencia artificial, minimizando alucinaciones y errores factuales.
